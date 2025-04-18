@@ -6,7 +6,7 @@ ENV NODE_ENV=production
 
 # Add metadata labels
 LABEL maintainer="CafeManagementSystem"
-LABEL description="api fateway Service"
+LABEL description="api gateway Service"
 LABEL version="1.0"
 
 # Update and install any required system dependencies
